@@ -32,7 +32,7 @@ circle{
     stroke-width: 15;
     stroke-dasharray: 692;
     stroke-dashoffset: 692;
-    animation: line 2s forwards;
+    animation: line 5s forwards;
     transform: rotate(-45deg);
     transform-origin: 45% 45%;
 }
